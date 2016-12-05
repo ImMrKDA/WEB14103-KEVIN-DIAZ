@@ -10,7 +10,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 * [Week 1](http://fourthfloor.raveweb.net/karboleda/2016/12/05/eyebombing-web-design-principles/ ): EyeBombing
 * [Week 2](http://fourthfloor.raveweb.net/karboleda/2016/12/05/34/): OneTweet
 * [Week 3](http://fourthfloor.raveweb.net/karboleda/2016/12/05/union-hack-web-design-principles/): Union Hack
-* [Week 4]( http://fourthfloor.raveweb.net/karboleda/2016/12/05/formative-presen…esign-principles/ ): Formative Assessment
+* [Week 4]( http://fourthfloor.raveweb.net/karboleda/2016/12/05/formative-presen…esign-principles/): Formative Assessment
 * [Week 5](http://fourthfloor.raveweb.net/karboleda/2016/12/05/peer-learning-web-design-principles/): Peer Learning
 * [Week 7](http://fourthfloor.raveweb.net/karboleda/2016/12/05/the-webs-grain-web-design-principles/): The Web's Grain
 * [Week 8](http://fourthfloor.raveweb.net/karboleda/2016/12/05/code-in-your-plate-web-design-principles/): Code in your plate
