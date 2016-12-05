@@ -37,4 +37,4 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 ###Summative Presentation
 
-[Link to my Summative Presentation](https://drive.google.com/open?id=0B1yvY6hTAQrkcTZFcDdVT1FlcUU) 
+[Link to my Summative Presentation](https://drive.google.com/open?id=0B1yvY6hTAQrkcTZFcDdVT1FlcUU)
