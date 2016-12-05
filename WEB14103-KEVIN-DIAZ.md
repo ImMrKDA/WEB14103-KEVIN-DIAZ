@@ -1,8 +1,8 @@
 #WEB14103: Web Design Principles
-**Name:** Kevin Díaz
-**Student number:**
-**Course:** Web Media Production Level 1
-**Unit Code:** WEB14103
+**Name:** Kevin Díaz  
+**Student number:** 96454416  
+**Course:** Web Media Production Level 1  
+**Unit Code:** WEB14103  
 
 This is my hand-in package MarkDown file. In this file you will be able to see all my blog posts as well as the links to the different projects that I've done in this term.
 
