@@ -32,7 +32,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 [Link to my recipe](https://thimbleprojects.org/immrkda/145378/)  
 [Link to my html recipe file](https://github.com/ImMrKDA/WEB14103-KEVIN-DIAZ/blob/master/HTML%20RECIPE%20FILE.md)  
-[Link to my normalize.css recipe file](https://github.com/ImMrKDA/WEB14103-KEVIN-DIAZ/blob/master/NORMALIZE.CSS%20FILE.md)
+[Link to my normalize.css recipe   file](https://github.com/ImMrKDA/WEB14103-KEVIN-DIAZ/blob/master/NORMALIZE.CSS%20FILE.md)
 [Link to my style.css recipe file](https://github.com/ImMrKDA/WEB14103-KEVIN-DIAZ/blob/master/STYLE.CSS%20RECIPE%20FILE.md)
 
 ###Summative Presentation
