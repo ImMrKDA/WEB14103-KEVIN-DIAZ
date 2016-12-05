@@ -14,7 +14,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 * [Week 5](http://fourthfloor.raveweb.net/karboleda/2016/12/05/peer-learning-web-design-principles/): Peer Learning
 * [Week 7](http://fourthfloor.raveweb.net/karboleda/2016/12/05/the-webs-grain-web-design-principles/): The Web's Grain
 * [Week 8](http://fourthfloor.raveweb.net/karboleda/2016/12/05/code-in-your-plate-web-design-principles/): Code in your plate
-* [Week 9](http://fourthfloor.raveweb.net/karboleda/2016/12/05/css-tricks-web-design-principles/): CSS tricks
+* [Week 9](http://fourthfloor.raveweb.net/karboleda/2016/12/05/css-tricks-web-design-principles/): CSS tricks ([Here's an additional link to GitHub](https://github.com/CallumLovekin28/CSS-Tricks/blob/master/Font%20Awesome.md))
 
 ###EyeBombing
 
@@ -30,4 +30,11 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 ###Code in your plate
 
-[Link to my recipe]()
+[Link to my recipe](https://thimbleprojects.org/immrkda/145378/)  
+[Link to my html recipe file]()  
+[Link to my normalize.css recipe file]()
+[Link to my style.css recipe file]()
+
+###Summative Presentation
+
+[Link to my Summative Presentation]()
